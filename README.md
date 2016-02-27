@@ -15,7 +15,7 @@ $ go get github.com/moqada/speakerdeck
 ```go
 import (
 	"fmt"
-  "io/ioutil"
+	"io/ioutil"
 
 	"github.com/moqada/speakerdeck"
 )
