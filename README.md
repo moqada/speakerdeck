@@ -22,7 +22,7 @@ import (
 
 // Fetch Slide
 slide, _ := speakerdeck.GetSlide("https://speakerdeck.com/achiku/pycon-jp-2014-python-plus-hive-on-aws-emrdepin-zhe-falseroguji-ji")
-fmt.Println(slide.Title, Slide.User.username, slide.Category.Name)
+fmt.Println(slide.Title, slide.User.username, slide.Category.Name)
 // PyCon JP 2014 Python + Hive on AWS EMRで貧者のログ集計 achiku Technology
 
 // Download pdf file as byte[]
