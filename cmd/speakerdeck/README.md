@@ -12,7 +12,7 @@ $ go get github.com/moqada/speakerdeck/cmd/speakerdeck
 
 ```
 NAME:
-   speakerdeck - Fetch Slide on Speakerdeck
+   speakerdeck - Fetch Slide on Speaker Deck
 
 USAGE:
    speakerdeck [global options] command [command options] [arguments...]
