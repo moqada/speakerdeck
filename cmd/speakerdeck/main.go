@@ -60,7 +60,7 @@ func info(c *cli.Context) error {
 func main() {
 	app := cli.NewApp()
 	app.Name = "speakerdeck"
-	app.Usage = "Fetch Slide on Speakerdeck"
+	app.Usage = "Fetch Slide on Speaker Deck"
 	app.Version = "0.1.0"
 	app.Author = "moqada <moqada@gmail.com>"
 	app.Commands = []cli.Command{
